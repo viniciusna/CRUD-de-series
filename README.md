@@ -1,3 +1,3 @@
 # CRUD-de-series
 
-Projeto feito no Bootcamp da DIO
+Projeto feito no Bootcamp MRV da DIO
